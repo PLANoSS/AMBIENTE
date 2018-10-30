@@ -31,7 +31,7 @@ jsonSource_ImportanciadeprotegerelmedioambienteMuyimportante_1.addFeatures(featu
         });
 
 lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1.setVisible(true);
-var layersList = [baseLayer,lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1;
+var layersList = [baseLayer,lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1];
 lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1.set('fieldAliases', {'Codigo': 'Codigo', 'Cantón': 'Cantón', 'Provincia': 'Provincia', 'Grafica': 'Grafica', 'MA3_MA3T02': 'MA3_MA3T02', });
 lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1.set('fieldImages', {'Codigo': 'Hidden', 'Cantón': 'TextEdit', 'Provincia': 'TextEdit', 'Grafica': 'Photo', 'MA3_MA3T02': 'TextEdit', });
 lyr_ImportanciadeprotegerelmedioambienteMuyimportante_1.set('fieldLabels', {'Cantón': 'no label', 'Provincia': 'no label', 'Grafica': 'no label', 'MA3_MA3T02': 'no label', });
