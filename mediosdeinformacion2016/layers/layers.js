@@ -22,7 +22,7 @@ jsonSource_Principalesmediosdeinformacion2016_0.addFeatures(features_Principales
                 declutter: true,
                 source:jsonSource_Principalesmediosdeinformacion2016_0, 
                 style: style_Principalesmediosdeinformacion2016_0,
-    title: '<b/>Percepción sobre los principales medios de información amiental:</b><br />El degradado de colores en el mapa indica el porcentaje de personas<br />que están informados de temas ambientales a través de <b/>noticias por<br />televisión.</b><br /><br />\
+    title: '<b/>Percepción sobre los principales medios de información ambiental:</b><br />El degradado de colores en el mapa indica el porcentaje de personas<br />que están informados de temas ambientales a través de <b/>noticias por<br />televisión.</b><br /><br />\
     <img src="styles/legend/Principalesmediosdeinformacion2016_0_0.png" />  0.0 - 20.0 <br />\
     <img src="styles/legend/Principalesmediosdeinformacion2016_0_1.png" />  20.0 - 40.0 <br />\
     <img src="styles/legend/Principalesmediosdeinformacion2016_0_2.png" />  40.0 - 60.0 <br />\
