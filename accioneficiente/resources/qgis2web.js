@@ -32,15 +32,6 @@ var map = new ol.Map({
 var layerSwitcher = new ol.control.LayerSwitcher({tipLabel: "Layers"});
 map.addControl(layerSwitcher);
 
-    var searchLayer = new ol.SearchLayer({
-      layer: lyr_Accinpersonaleficiente_0,
-      colName: 'Canton',
-      zoom: 10,
-      collapsed: true,
-      map: map
-    });
-
-    map.addControl(searchLayer);
 map.getView().fit([-8931356.502740, -559396.764466, -8460414.789956, 132962.271398], map.getSize());
 
 var NO_POPUP = 0
